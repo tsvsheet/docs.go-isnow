@@ -2,4 +2,4 @@
 
 # docs.go-isnow
 
-Public documentation for [tsvsheet/go-isnow](https://github.com/tsvsheet/go-isnow) — the isnow (DTimpalr) date/time pattern language as an importable Go library — published as a [Hugo](https://gohugo.io) site via GitHub Pages at [tsvsheet.github.io/docs.go-isnow](https://tsvsheet.github.io/docs.go-isnow/). The documentation lives in [content/](content/); preview locally with `make serve`.
+Public documentation for [tsvsheet/go-isnow](https://github.com/tsvsheet/go-isnow) — the isnow date/time pattern language as an importable Go library — published as a [Hugo](https://gohugo.io) site via GitHub Pages at [tsvsheet.github.io/docs.go-isnow](https://tsvsheet.github.io/docs.go-isnow/). The documentation lives in [content/](content/); preview locally with `make serve`.

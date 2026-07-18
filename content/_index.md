@@ -2,7 +2,7 @@
 title: Home
 ---
 
-**The [isnow](https://github.com/tsvsheet/isnow) date/time pattern language as an importable Go library.** An isnow (DTimpalr — a Date/Time Pattern Language for Repetition) is one compact expression describing anything from a fixed instant to a complex recurrence, answering a single question: _is it now?_ `go-isnow` parses a pattern into an immutable `Pattern`, tests membership at any instant, and derives past and future occurrences — with no filesystem, network, or clock access of its own.
+**The [isnow](https://github.com/tsvsheet/isnow) date/time pattern language as an importable Go library.** An isnow is one compact expression describing anything from a fixed instant to a complex recurrence, answering a single question: _is it now?_ `go-isnow` parses a pattern into an immutable `Pattern`, tests membership at any instant, and derives past and future occurrences — with no filesystem, network, or clock access of its own.
 
 The library is the one engine behind the [`isnow`](https://github.com/tsvsheet/isnow.go) CLI and the `ISNOW(...)` spreadsheet function in [go-tsvsheet](https://github.com/tsvsheet/go-tsvsheet). Import it to evaluate isnow patterns from your own Go programs, services, or schedulers.
 
