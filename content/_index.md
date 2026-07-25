@@ -1,5 +1,5 @@
 ---
-title: Home
+title: go-isnow
 ---
 
 **The [isnow](https://github.com/tsvsheet/isnow) date/time pattern language as an importable Go library.** An isnow is one compact expression describing anything from a fixed instant to a complex recurrence, answering a single question: _is it now?_ `go-isnow` parses a pattern into an immutable `Pattern`, tests membership at any instant, and derives past and future occurrences — with no filesystem, network, or clock access of its own.
